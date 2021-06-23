@@ -1,0 +1,11 @@
+=> Import the requests functions.
+=> And also import datetime.
+=> To get data from API we need to get an API key for this go to https://openweathermap.org/
+=> Then signup.
+=> Make sure you have confirmed email.
+=> After sign up go to section called API keys in your dash board.
+=> There you can get API key. Copy it.
+=> And paste it in the program [api_key].
+=> Fix the City,weather description,humidity wind speed.
+=> Run the program.
+=> Get the current weather of the City as the Output.
